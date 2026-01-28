@@ -9,6 +9,7 @@ use Vigihdev\Shareds\Contracts\OwlCarousel\OptionsOwlCarouselInterface;
 
 final class OptionsOwlCarouselDto implements OptionsOwlCarouselInterface, JsonableInterface, ArrayableInterface
 {
+
     public function __construct(
         private readonly int|float $items,
         private readonly bool $loop = true,
