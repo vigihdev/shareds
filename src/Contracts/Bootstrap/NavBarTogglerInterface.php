@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Vigihdev\Contracts\Bootstrap;
+namespace Vigihdev\Shareds\Contracts\Bootstrap;
 
 interface NavBarTogglerInterface
 {

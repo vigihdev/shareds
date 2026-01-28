@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Vigihdev\DTOs\Bootstrap;
+namespace Vigihdev\Shareds\DTOs\Bootstrap;
 
-use Vigihdev\Contracts\Bootstrap\NavBarBrandInterface;
+use Vigihdev\Shareds\Contracts\Bootstrap\NavBarBrandInterface;
 
 final class NavBarBrandDto implements NavBarBrandInterface
 {

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Vigihdev\DTOs\Bootstrap;
+namespace Vigihdev\Shareds\DTOs\Bootstrap;
 
-use Vigihdev\Contracts\Bootstrap\OptionsInterface;
+use Vigihdev\Shareds\Contracts\Bootstrap\OptionsInterface;
 
 final class OptionsDto implements OptionsInterface
 {

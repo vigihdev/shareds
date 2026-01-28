@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Vigihdev\DTOs\Bootstrap;
+namespace Vigihdev\Shareds\DTOs\Bootstrap;
 
-use Vigihdev\Contracts\Bootstrap\NavBarTogglerInterface;
+use Vigihdev\Shareds\Contracts\Bootstrap\NavBarTogglerInterface;
 
 final class NavBarTogglerDto implements NavBarTogglerInterface
 {

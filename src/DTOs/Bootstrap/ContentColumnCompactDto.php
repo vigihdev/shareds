@@ -2,10 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Vigihdev\DTOs\Bootstrap;
+namespace Vigihdev\Shareds\DTOs\Bootstrap;
 
-use Vigihdev\Contracts\Bootstrap\ButtonActionInterface;
-use Vigihdev\Contracts\Bootstrap\ContentColumnCompactInterface;
+use Vigihdev\Shareds\Contracts\Bootstrap\{ButtonActionInterface, ContentColumnCompactInterface};
 
 final class ContentColumnCompactDto implements ContentColumnCompactInterface
 {
